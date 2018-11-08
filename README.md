@@ -31,6 +31,7 @@ Find your 'car' here!
 
 * If you write C, you could refer to [CMU C Code Style](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * If you write C++, always read [Google Style Guide](http://google.github.io/styleguide/) first!
+* If you write Python, read [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style) will be helpful.
 * Learn [how to write a git commit message](https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88).
 * Format your code using [clang format](https://clang.llvm.org/docs/ClangFormat.html).
 
