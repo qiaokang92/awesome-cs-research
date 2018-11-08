@@ -36,6 +36,7 @@ Find your 'car' here!
 
 ## Writing paper
 
+* Read [The Elements of Style](https://www.amazon.com/Elements-Style-William-Strunk/dp/1721650393/ref=sr_1_1_sspa?s=books&ie=UTF8&qid=1533010680&sr=1-1-spons&keywords=elements+of+style+strunk+and+white&psc=1), this is a classic book for basic writing rules.
 * If you don't want to install Latex locally, use [Overleaf](https://www.overleaf.com/).
 * Use [draw.io](https://www.draw.io/) to draw your figures online.
 
@@ -43,4 +44,14 @@ Find your 'car' here!
 
 * Learn awesome online courses in [MIT OCW](https://clang.llvm.org/docs/ClangFormat.html).
 
-## Books
+## Blogs
+
+* Read [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) before you decide to start a Ph.D. program.
+* Also, read [The PhD Grind](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf), which is a student's memoir.
+* Checkout [Terry Tao](https://terrytao.wordpress.com/career-advice/)'s website
+* and [Matt Might](http://matt.might.net/articles/)'s website for more advice on grad school.
+* Check out [12 resolutions](http://matt.might.net/articles/grad-student-resolutions/) when every semester starts.
+
+## Presentation
+
+* [Attend talks and conferences](https://terrytao.wordpress.com/career-advice/attend-talks-and-conferences-even-those-not-directly-related-to-your-work/).
